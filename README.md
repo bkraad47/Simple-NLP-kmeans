@@ -1,4 +1,4 @@
-# Simple NLP document  - Badruddin Kamal (Raad)
+# Simple NLP document clustering - Badruddin Kamal (Raad)
 
 ## Solution to https://github.com/Isentia/Coding-Challenge/blob/master/NLP-ML-Architect-Challenge.md
 
