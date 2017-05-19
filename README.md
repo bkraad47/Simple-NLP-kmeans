@@ -4,7 +4,7 @@
 
 A simple NLP application that takes documents as JSON and runs a K-means(Default 60 clusters) clustering algorithm. Documents are indexed based on their closest centroids(Which are randomly selected).
 
-It uses nltk stopwords and porterstemmer
+It uses nltk stopwords and porterstemmer.
 
 ## Installation of dependencies and environment
 
