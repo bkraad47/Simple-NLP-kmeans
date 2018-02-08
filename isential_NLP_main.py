@@ -19,7 +19,7 @@ nltk.download('punkt')
 
 def tokenizer(text):
 
-        # Tokenizes and stems the text using PorterStemmer
+    # Tokenizes and stems the text using PorterStemmer
 
     tokens = word_tokenize(text)
     stemmer = PorterStemmer()
